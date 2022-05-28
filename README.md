@@ -1,2 +1,2 @@
 # bartender
-App that provides recipes for cocktails and more 
+App that provides recipes for cocktails and more... and more
